@@ -11,11 +11,11 @@ Demo Link: https://youtu.be/UmhUFkBMMzY
 ![image](https://user-images.githubusercontent.com/60675989/125958948-f8ea4896-1cb9-430e-8e25-a2dabad416c8.png) (Firebase)
 
 
-# Instructions to Start the App:
-Download or clone the repository locally onto your hardrive
-Wait for the files to load into directory
-Change file path with the name of your User folder, not mine. (i.e. C:// Users/kash/Documents/messageboardappproj/)
-Build the project
-After it is build, type this command into your terminal "firebase emulators:start --project=demo-friendlychat" (you will be able to see realtime database)
-The command above will use the firbase.json file and start the emulator and will give you a local port whjich you can access the firebase emulator (see status or authentication, cloud messaging, etc.) Once cloned, you should be able to press the play button or go on the "Run" tab on the tool bar and press run 'build-android-start.app'
-** make sure your gradle is 6.7.1 or change it in the gradle-wrapper.properties to 6.7.1. I had to move the gradle-wrapper-properties file outside in the main FriendlyChat folder. **
+# Instructions to Start the App:  
+Download or clone the repository locally onto your hardrive  
+Wait for the files to load into directory  
+Change file path with the name of your User folder, not mine. (i.e. C:// Users/kash/Documents/messageboardappproj/)  
+Build the project  
+After it is build, type this command into your terminal "firebase emulators:start --project=demo-friendlychat" (you will be able to see realtime database)  
+The command above will use the firbase.json file and start the emulator and will give you a local port whjich you can access the firebase emulator (see status or authentication, cloud messaging, etc.) Once cloned, you should be able to press the play button or go on the "Run" tab on the tool bar and press run 'build-android.app'  
+** make sure your gradle is 6.7.1 or change it in the gradle-wrapper.properties to 6.7.1. I had to move the gradle-wrapper-properties file outside in the main messageboardproj folder. **
