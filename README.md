@@ -1,7 +1,7 @@
 # MessageBoard App for Mobile App Development
 Similar to our previous project FriendlyChat, this app has a login page where you can either register with: First and Last Name, e-Mail, and Password. I logged in with my test account, personal account, and G-Mail account. Everything is tracked with Firebase with each of the posting. I only used one of the MessageBoard forums and that was tracked. All the messages are tracked but for simplicity, I chose to use my gaming forum.
 
-Demo Link: https://youtu.be/UmhUFkBMMzY
+Demo Link: https://youtu.be/qEc7bKRm4Uc
 
 ![image](https://user-images.githubusercontent.com/60675989/125956715-8f77bec6-7df4-4380-9795-cfe090352867.png) (Splash Screen)
 ![image](https://user-images.githubusercontent.com/60675989/125956747-5bc57d83-ba32-4719-a0d1-5deddaf4bf49.png) (GitHub)
