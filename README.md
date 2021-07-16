@@ -8,7 +8,7 @@ Demo Link: https://youtu.be/UmhUFkBMMzY
 ![image](https://user-images.githubusercontent.com/60675989/125956797-56193776-f3ae-4e74-a7f4-56244b770ab8.png) (Registration Page)
 ![image](https://user-images.githubusercontent.com/60675989/125956985-d257b676-1497-4c79-a05c-f2bc625d4916.png) ![image](https://user-images.githubusercontent.com/60675989/125957064-e59b2f08-7190-4a22-b51b-42f27f26af1d.png) (Login Page)
 ![image](https://user-images.githubusercontent.com/60675989/125957135-7a871391-bd27-46a7-8c5f-c851958380db.png) (Threads)
-![image](https://user-images.githubusercontent.com/60675989/125956045-b48fb69a-bf40-4c78-864a-406a1c5e88ad.png) (Firebase)
+![image](https://user-images.githubusercontent.com/60675989/125958948-f8ea4896-1cb9-430e-8e25-a2dabad416c8.png) (Firebase)
 
 
 # Instructions to Start the App:
