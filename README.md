@@ -18,4 +18,4 @@ Change file path with the name of your User folder, not mine. (i.e. C:// Users/k
 Build the project  
 After it is build, type this command into your terminal "firebase emulators:start --project=demo-friendlychat" (you will be able to see realtime database)  
 The command above will use the firbase.json file and start the emulator and will give you a local port whjich you can access the firebase emulator (see status or authentication, cloud messaging, etc.) Once cloned, you should be able to press the play button or go on the "Run" tab on the tool bar and press run 'build-android.app'  
-** make sure your gradle is 6.7.1 or change it in the gradle-wrapper.properties to 6.7.1. I had to move the gradle-wrapper-properties file outside in the main messageboardproj folder. **
+** make sure your gradle is 6.7.1 or change it in the gradle-wrapper.properties to 6.7.1. I had to move the gradle-wrapper-properties file outside in the main Messageboard folder. **
